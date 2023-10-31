@@ -1,4 +1,18 @@
-# <h1 align="center">Site de uma Humburgueria desenvolvida para treinar JavaScript e Grid CSS, com efeitos na tela(no menu hamburguer, conforme for scrollando o conteudo surgi de lado, e na parte de discover que vem o conteudo de lado no icone clicado). Responsiva para mobile.</h1>
+# <h1 align="center">Site de uma Humburgueria desenvolvida para treinar JavaScript e Grid CSS, com efeitos na tela(no menu hamburguer, conforme for scrollando o conteudo surgi de lado, e na parte de discover que vem o conteudo de lado no icone clicado). Responsivo para mobile.</h1>
+<br>
+
+## 🚀 Tecnologias
+<div>
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</div>
+<!-- ## Tecnologias utilizadas durante o curso
+* JavaScript
+ -->
+<!-- ## Tecnologias utilizadas no projeto
+* HTML
+* CSS -->
 
 <br>
 <h3 align="center">Tela para desktop</h3>
