@@ -23,4 +23,4 @@
 <h3 align="center">Tela para mobile</h3>
 <div align="center">
   <img src="https://github.com/DeangellesES/site_de_uma_hamburgueria_com_efeitos-JavaScript-CSS-HTML/blob/main/tela%20mobile.png" width="300">
-</div>-HTML
+</div>
